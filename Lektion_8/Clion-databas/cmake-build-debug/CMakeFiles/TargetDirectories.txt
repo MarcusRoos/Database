@@ -1,0 +1,3 @@
+C:/Users/Satan/Desktop/Skola/Universitet/Aktuella_kurser/Databas/Lektion_8/Clion-databas/cmake-build-debug/CMakeFiles/PostgreSQLTest.dir
+C:/Users/Satan/Desktop/Skola/Universitet/Aktuella_kurser/Databas/Lektion_8/Clion-databas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Satan/Desktop/Skola/Universitet/Aktuella_kurser/Databas/Lektion_8/Clion-databas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

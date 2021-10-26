@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\PostgreSQLTest.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\PostgreSQLTest.dir/objects.a @CMakeFiles\PostgreSQLTest.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PostgreSQLTest.dir/objects.a -Wl,--no-whole-archive  -o PostgreSQLTest.exe -Wl,--out-implib,libPostgreSQLTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PostgreSQLTest.dir\linklibs.rsp

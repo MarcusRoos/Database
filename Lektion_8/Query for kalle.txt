@@ -1,0 +1,10 @@
+SELECT epost, password
+FROM person
+WHERE epost LIKE 'Supermail@mail.mail'
+
+
+    res = PQexec(conn, "DECLARE allPersons CURSOR FOR "
+                       "select epost, lösenord "
+                       "from person "
+                       "where epost "
+                       "LIKE 'd.duck@quacksville.net'");

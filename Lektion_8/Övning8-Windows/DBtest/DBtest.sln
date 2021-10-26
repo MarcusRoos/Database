@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DBtest", "DBtest.vcxproj", "{41537667-1541-4C26-ADA5-564840952A5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F480720C-B04E-4FD2-8E06-64C11E611895}"
+	ProjectSection(SolutionItems) = preProject
+		DBhandler.cpp = DBhandler.cpp
+		DBtest.cpp = DBtest.cpp
+		PWinput.cpp = PWinput.cpp
+		terminal.cpp = terminal.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41537667-1541-4C26-ADA5-564840952A5A}.Debug|x64.ActiveCfg = Debug|x64
+		{41537667-1541-4C26-ADA5-564840952A5A}.Debug|x64.Build.0 = Debug|x64
+		{41537667-1541-4C26-ADA5-564840952A5A}.Debug|x86.ActiveCfg = Debug|Win32
+		{41537667-1541-4C26-ADA5-564840952A5A}.Debug|x86.Build.0 = Debug|Win32
+		{41537667-1541-4C26-ADA5-564840952A5A}.Release|x64.ActiveCfg = Release|x64
+		{41537667-1541-4C26-ADA5-564840952A5A}.Release|x64.Build.0 = Release|x64
+		{41537667-1541-4C26-ADA5-564840952A5A}.Release|x86.ActiveCfg = Release|Win32
+		{41537667-1541-4C26-ADA5-564840952A5A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63331A98-1F9D-486C-A980-F4A18431090A}
+	EndGlobalSection
+EndGlobal

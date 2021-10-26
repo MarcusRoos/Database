@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/PostgreSQL/10/include/libpq-fe.h
+stdio.h
+-
+postgres_ext.h
+C:/Program Files (x86)/PostgreSQL/10/include/postgres_ext.h
+
+C:/Program Files (x86)/PostgreSQL/10/include/pg_config_ext.h
+
+C:/Program Files (x86)/PostgreSQL/10/include/postgres_ext.h
+pg_config_ext.h
+C:/Program Files (x86)/PostgreSQL/10/include/pg_config_ext.h
+
+C:/Users/Satan/Desktop/Skola/Universitet/Aktuella_kurser/Databas/Lektion_8/Clion-databas/main.cpp
+iostream
+-
+libpq-fe.h
+-
+

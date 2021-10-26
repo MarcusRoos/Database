@@ -1,0 +1,7 @@
+Tänk på att du endast har begränsat med tid på dig. Uppskatta hur mycket tid du behöver på varje uppgift och ställ detta mot hur många poäng varje uppgift ger. Tror du att du kommer att få ont om tid så gör i första hand de uppgifter som ger mest poäng/tid. GLÖM INTE BORT att du minst måste ha hälften av poängen på varje uppgift för att vara godkänd på tentan.
+
+Använd i första hand Word- eller OpenOffice-dokumentet och klistra in dina svar direkt i detta. Givetvis får du använda andra programvaror när du tar fram din lösning på uppgifterna. T.ex. Dia för att skapa ER-modeller, men spara då modellen som en bildfil och klistra in den i dokumentet. Skapa sen en pdf-fil av dokumentet. Skicka in både pdf- och originaldokumentet. Bifoga även eventuella andra filer du skapar (som dia-filer).
+
+Glöm inte att ange ditt personnummer och namn på första sidan. Det går även bra att lämna dina svar i ett tomt/separat dokument som jag kan öppna i Word alternativt att du konverterar det till PDF. Glöm inte bara inte bort att skriva namn och personnummer i ditt svarsdokument.
+
+När du är klar döper du ditt svarsdokument enligt instruktionerna i inlämningslådan för tentamen. Packa därefter ditt dokument i en ZIP-fil (eller liknande) och döp ZIP-filen till samma namn. Skicka in din ZIP-fil via inlämningslådan för tentan i Moodle.

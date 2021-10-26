@@ -1,0 +1,7 @@
+Serveradress: 	studentpsql.miun.se
+Användarnamn: 	maro1904
+Lösenord: 	JJtfxZxk0
+Databas: 	maro1904
+Aktivt till: 	2022-12-31
+
+Tänk på att du måste använda SSL då du kopplar upp dig mot servern. I pgAdmin sätter du SSL = require.
